@@ -1,4 +1,4 @@
 <?php 
-	echo "Hellow World! Abraço";
+	echo "Ola mundo! Abraço";
 	echo "Nois  Filhão";
  ?>
