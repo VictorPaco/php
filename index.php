@@ -6,7 +6,7 @@
 	echo "<br>";
 	echo "Testando o Git";
 	echo "<br>";
-	echo "ola Paco e ola Pac ";
+	echo "ola Paco e ola Paco ";
 	echo "<br>";
-	echo "Testando mais alterações 23";
+	echo "Testando mais alterações 612626";
  ?>
